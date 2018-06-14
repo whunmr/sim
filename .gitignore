@@ -25,3 +25,4 @@ build/
 *.a
 *.lib
 
+.DS_Store
